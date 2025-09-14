@@ -1,0 +1,11 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(move:*)",
+      "Bash(flutter:*)",
+      "Bash(timeout 5 curl -I http://localhost:8080)"
+    ],
+    "deny": [],
+    "ask": []
+  }
+}
